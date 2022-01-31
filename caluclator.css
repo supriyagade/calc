@@ -1,0 +1,42 @@
+.container{
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+	background: lightgray;
+	border-radius: 20px;
+
+}
+table{
+	margin: auto;
+	
+}
+input{
+	font-size: 20px;
+	border-radius: 20px;
+	width: 300px;
+	height: 30px;
+}
+button{
+	font-size: 40px;
+
+}
+button{
+	background: lightpink;
+	border-radius: 20px;
+	width: 70px;
+	height: 40px;
+	font-size: 23px;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-size: 30px;
+}
+button.c{
+background: blue;
+color: white;
+
+}
